@@ -1,4 +1,4 @@
-# pet_finder
+# Pet Finder Flutter
 
 A new Flutter project.
 
